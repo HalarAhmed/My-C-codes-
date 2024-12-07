@@ -1,4 +1,4 @@
 # My-C-codes-
 My C++ codes are uploaded here for my learning and practice.
 <br>
-Author-Halar Ahmed
+Author-Halar Ahmed.
